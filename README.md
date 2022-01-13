@@ -1,3 +1,4 @@
+We're here to party!!! BEANS!!
 # Bonus: JavaScript Object-ball
 
 ## Learning Goals
